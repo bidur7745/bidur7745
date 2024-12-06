@@ -36,7 +36,7 @@ I'm a passionate learner pursuing my journey in web development. I love explorin
 - Email: [siwakoti.bidur7745@gmail.com](mailto:siwakoti.bidur7745.com)
 - Portfolio: [My Portfolio](https://bidur7745.github.io/bidursiwakoti.github.io/)
 - Twitter: [@bidur7745](https://x.com/SiwakotiBidur)
-- Facebook:[@bidur.siwakoti.56]_(https://www.facebook.com/bidur.siwakoti.56).
+- Facebook: [@bidur.siwakoti.56](https://www.facebook.com/bidur.siwakoti.56)
 
 ---
 
