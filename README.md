@@ -2,7 +2,7 @@
 
 ## A Web Developer in Making
 
-![Banner](https://via.placeholder.com/1000x300?text=Your+Custom+Banner+Here)
+![Banner](https://techslang.com/wp-content/uploads/2021/05/Untitled-1-2-scaled-e1622472165118.jpg)
 
 I'm a passionate learner pursuing my journey in web development. I love exploring new technologies, solving real-world problems, and contributing to the developer community. Currently, I'm diving into:
 - **Web Development** 
@@ -33,9 +33,10 @@ I'm a passionate learner pursuing my journey in web development. I love explorin
 
 ### 🌐 Connect with Me
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- Portfolio: [My Portfolio](https://bidur7745.github.io/portfolio/)
-- Twitter: [@bidur7745](https://twitter.com/bidur7745)
+- Email: [siwakoti.bidur7745@gmail.com](mailto:siwakoti.bidur7745.com)
+- Portfolio: [My Portfolio](https://bidur7745.github.io/bidursiwakoti.github.io/)
+- Twitter: [@bidur7745](https://x.com/SiwakotiBidur)
+- Facebook:[@bidur.siwakoti.56]_(https://www.facebook.com/bidur.siwakoti.56).
 
 ---
 
