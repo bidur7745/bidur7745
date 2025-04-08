@@ -2,7 +2,7 @@
 
 ## A Web Developer in Making
 
-![Banner](https://techslang.com/wp-content/uploads/2021/05/Untitled-1-2-scaled-e1622472165118.jpg)
+![Banner]()
 
 I'm a passionate learner pursuing my journey in web development. I love exploring new technologies, solving real-world problems, and contributing to the developer community. Currently, I'm diving into:
 - **Web Development** 
