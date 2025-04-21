@@ -2,7 +2,6 @@
 
 ## A Web Developer in Making
 
-![Banner]()
 
 I'm a self-driven tech enthusiast from Nepal 🇳🇵, passionate learner pursuing my journey in **web development** and building real-world applications that make a difference. I love exploring new technologies, solving real-world problems, and contributing to the developer community.
 
