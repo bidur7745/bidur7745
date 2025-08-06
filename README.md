@@ -82,7 +82,7 @@ Feel free to connect or check out my projects!
 
 ### 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidur7745&show_icons=true&theme=dark&cache_seconds=30) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bidur7745&theme=dark&cache_seconds=30) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidur7745&show_icons=true&theme=dark&cache_seconds=30) | ![GitHub Streak](https://streak-stats.demolab.com?user=bidur7745&theme=dark&cache_seconds=30) |
 |--|--|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bidur7745&layout=compact&theme=dark&cache_seconds=30) | |
 
